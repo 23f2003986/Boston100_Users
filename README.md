@@ -10,3 +10,4 @@ The analysis of (high) correlation between a user’s followers and the number o
 Actionable Recommendation:
 To enhance their chances of gaining followers and recognition, developers should consider focusing on building high-quality repositories in popular languages like SQL and JavaScript. Emphasizing well-documented code, building projects and respositories and engaging with the community can significantly increase visibility and attract more followers.
 
+The python code for this project is attached above as code.py
